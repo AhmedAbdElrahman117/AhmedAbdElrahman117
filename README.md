@@ -1,6 +1,11 @@
-## Hey, I'm Ahmed Abd Elrahman! 👋
+## Hey, I'm Ahmed Abd Elrahman! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+Application+Developer;Flutter+%26+Jetpack+Compose;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=3178C6&vCenter=true&size=22"></a>
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="300" alt="Coding Meme">
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+Application+Developer;Flutter+%26+Jetpack+Compose;Always+learning+new+things;Grinding+code+in+Dark+Mode&font=Fira+Code&center=true&width=440&height=45&color=3178C6&vCenter=true&size=22"></a>
 </p>
 
 > _"I turn coffee into code, and bugs into undocumented features."_ 
@@ -24,10 +29,17 @@
 | **RestoQR** | Modern app with seamless onboarding & robust backend integration | Flutter, Supabase |
 | **AnimBro** | Open-source app for anime enthusiasts *(Grad Project Team Lead)* | Native Android, Kotlin |
 | **Notey** | Fast, intuitive cross-platform note-taking app | iOS & Android |
+| **UCCD** | Another awesome project proving my coding wizardry | Mobile Tech |
+
+*...and a whole lot more! Check out my repositories below for the full collection of my side quests.* 🚀
 
 ---
 
 ### ⚙️ The Arsenal
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Gears turning">
+</p>
 
 #### Mobile & Languages
 [![Flutter](https://img.shields.io/badge/Flutter-3178C6?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev/)
@@ -52,16 +64,23 @@
 ---
 
 ### 📊 My Stats Activity
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdElrahman117&layout=compact&show_icons=true&theme=radical" alt="Ahmed's stats" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=AhmedAbdElrahman117&theme=radical" alt="Ahmed's streak" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdElrahman117&layout=compact&show_icons=true&theme=radical" alt="Ahmed's stats" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AhmedAbdElrahman117&theme=radical" alt="Ahmed's streak" width="48%" />
 </div>
-
 <br />
+
 ---
 
 ### 📬 Stalk Me (Respectfully)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:YOUR.EMAIL@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmedaboelnaga-dev/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/lorr.ahmed.37/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="mailto:ahmedaboelnaga713@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-<p align="center">Thanks for stopping by—star a repo or just say hi!</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Waving Bye">
+  <br>
+  <em>Thanks for stopping by—star a repo or just say hi!</em>
+</p>
