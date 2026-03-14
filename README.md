@@ -53,8 +53,8 @@
 
 ### 📊 My Stats Activity
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&layout=compact&show_icons=true&theme=radical" alt="Ahmed's stats" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_USERNAME&theme=radical" alt="Ahmed's streak" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdElrahman117&layout=compact&show_icons=true&theme=radical" alt="Ahmed's stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=AhmedAbdElrahman117&theme=radical" alt="Ahmed's streak" width="48%" />
 </div>
 
 <br />
