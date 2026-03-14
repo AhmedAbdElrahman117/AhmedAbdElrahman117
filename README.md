@@ -58,9 +58,6 @@
 </div>
 
 <br />
-
-*(Note: Don't forget to replace `YOUR_USERNAME` in the two image links above!)*
-
 ---
 
 ### 📬 Stalk Me (Respectfully)
